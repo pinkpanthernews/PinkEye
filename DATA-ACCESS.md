@@ -1,6 +1,10 @@
 # Data access and use
 
-This repository is private. It holds an authorised machine-oriented snapshot of material currently published on PinkPanther.News, plus later signed deltas. It contains public article text, associated metadata, revisions, story-level analytical records and archived source-image assets.
+**Documentation generated:** `2026-08-05T16:20:18Z`  
+**Current baseline:** `baseline/2026-08-02/` with **321** public article records.  
+**Signed deltas available:** **3**, latest `daily/2026-08-05/`.
+
+This repository is private. It holds an authorised machine-oriented snapshot of material currently published on PinkPanther.News, together with later signed deltas. It may contain public article text, associated metadata, revisions, story-level analytical records and archived source-image assets.
 
 Access to raw or derived material requires a written agreement with PinkPanther.News. Trusted academic and public-interest partners may be granted no-cost access when purpose, handling, attribution and retention terms are compatible with the project.
 
