@@ -1,6 +1,6 @@
 # Data access and use
 
-**Documentation generated:** `2026-08-05T16:35:10Z`  
+**Documentation generated:** `2026-08-05T16:39:44Z`  
 **Current baseline:** `baseline/2026-08-02/` with **321** public article records.  
 **Signed deltas available:** **3**, latest `daily/2026-08-05/`.
 
