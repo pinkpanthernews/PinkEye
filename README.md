@@ -44,7 +44,7 @@ Approved LLM, RAG and public-interest research
 | Records with collected full text | **210** |
 | Revision snapshots retained | 151 |
 | Source records retained internally but excluded from delivery | 3073 |
-| Signed daily deltas after baseline | 2 |
+| Signed daily deltas after baseline | 3 |
 | Files in baseline package | 1231 |
 | Topic coverage | Družba, Gospodarstvo, Kronika, Kultura, Okolje, Politika, Potrošnik, Promet, Slovenija, Šport, Svet, Tehnologija, Zabava, Zdravje, Znanost |
 
