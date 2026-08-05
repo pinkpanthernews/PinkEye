@@ -34,23 +34,24 @@ Signed PinkIntel baseline and later daily deltas
 Approved LLM, RAG and public-interest research
 ```
 
-## Signal board · baseline 2026-08-02
+## Signal board · latest signed package 2026-08-05
 
 | Signal | Current value |
 | --- | ---: |
-| Public article records in the baseline | **321** |
-| Published cross-source story groups | **107** |
-| Distinct media sources | **16** |
-| Records with collected full text | **210** |
-| Revision snapshots retained | 151 |
-| Source records retained internally but excluded from delivery | 3073 |
+| Public article records at this export | **635** |
+| Published cross-source story groups at this export | **219** |
+| Articles added in this daily delta | 171 |
+| Stories added in this daily delta | 54 |
+| Records currently stored in the pipeline | 4988 |
+| Files in this daily package | 628 |
 | Signed daily deltas after baseline | 3 |
-| Files in baseline package | 1231 |
-| Topic coverage | Družba, Gospodarstvo, Kronika, Kultura, Okolje, Politika, Potrošnik, Promet, Slovenija, Šport, Svet, Tehnologija, Zabava, Zdravje, Znanost |
+| Baseline article records / story groups | 321 / 107 |
+| Baseline distinct media sources | 16 |
 
-**Baseline:** `baseline/2026-08-02/`  
-**Generated:** `2026-08-02T17:47:51.337Z`  
-**Integrity:** `signed` Ed25519 signature · package digest `f040188533a97b7c1a5c1a56eef6ba0f703345e264d5df35a83b401f212a740a`
+**Latest package:** `daily/2026-08-05/`  
+**Generated:** `2026-08-05T16:35:00.522Z`  
+**Integrity:** `signed` Ed25519 signature · package digest `488a631af3c2f7ee4806d10edc53a3d7be25356e1233b5fda79c7515b291d4b3`  
+**Baseline reference:** `baseline/2026-08-02/` · 1231 files · 210 records with collected full text · 151 revision snapshots
 
 ## Value we can defend
 
