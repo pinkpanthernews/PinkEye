@@ -1,8 +1,8 @@
 # PinkIntel LLM Dataset Guide
 
-**Documentation generated:** `2026-08-17T00:18:05Z`  
+**Documentation generated:** `2026-08-18T00:18:04Z`  
 **Baseline:** `baseline/2026-08-02/`  
-**Latest signed delta:** `daily/2026-08-17/`
+**Latest signed delta:** `daily/2026-08-18/`
 
 ## What this repository is
 
