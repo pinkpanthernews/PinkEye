@@ -34,23 +34,23 @@ Signed PinkIntel baseline and later daily deltas
 Approved LLM, RAG and public-interest research
 ```
 
-## Signal board · latest signed package 2026-08-24
+## Signal board · latest signed package 2026-08-25
 
 | Signal | Current value |
 | --- | ---: |
 | Public article records at this export | **3774** |
 | Published cross-source story groups at this export | **1341** |
-| Articles added in this daily delta | 206 |
-| Stories added in this daily delta | 81 |
-| Records currently stored in the pipeline | 16939 |
-| Files in this daily package | 745 |
-| Signed daily deltas after baseline | 21 |
+| Articles added in this daily delta | 229 |
+| Stories added in this daily delta | 85 |
+| Records currently stored in the pipeline | 16952 |
+| Files in this daily package | 808 |
+| Signed daily deltas after baseline | 22 |
 | Baseline article records / story groups | 321 / 107 |
 | Baseline distinct media sources | 16 |
 
-**Latest package:** `daily/2026-08-24/`  
-**Generated:** `2026-09-01T09:34:56.414Z`  
-**Integrity:** `signed` Ed25519 signature · package digest `cbd0e147e26de62889810b3651aac240bbcf596f216719b59d0683214500436d`  
+**Latest package:** `daily/2026-08-25/`  
+**Generated:** `2026-09-01T09:50:58.808Z`  
+**Integrity:** `signed` Ed25519 signature · package digest `0f70dbbe7db9d171c9c6477be27fc1fce869846b62bf8dc7047a950c7235315a`  
 **Baseline reference:** `baseline/2026-08-02/` · 1231 files · 210 records with collected full text · 151 revision snapshots
 
 ## Value we can defend
