@@ -1,8 +1,8 @@
 # Data access and use
 
-**Documentation generated:** `2026-09-01T09:54:11Z`  
+**Documentation generated:** `2026-09-01T09:57:48Z`  
 **Current baseline:** `baseline/2026-08-02/` with **321** public article records.  
-**Signed deltas available:** **22**, latest `daily/2026-08-25/`.
+**Signed deltas available:** **23**, latest `daily/2026-08-26/`.
 
 This repository is private. It holds an authorised machine-oriented snapshot of material currently published on PinkPanther.News, together with later signed deltas. It may contain public article text, associated metadata, revisions, story-level analytical records and archived source-image assets.
 
