@@ -34,30 +34,30 @@ Signed PinkIntel baseline and later daily deltas
 Approved LLM, RAG and public-interest research
 ```
 
-## Signal board · latest signed package 2026-09-04
+## Signal board · latest signed package 2026-09-05
 
 | Signal | Current value |
 | --- | ---: |
-| Public article records at this export | **3947** |
-| Published cross-source story groups at this export | **1407** |
-| Articles added in this daily delta | 2 |
+| Public article records at this export | **4012** |
+| Published cross-source story groups at this export | **1427** |
+| Articles added in this daily delta | 4 |
 | Stories added in this daily delta | 1 |
-| Records currently stored in the pipeline | 18577 |
-| Files in this daily package | 13 |
-| Signed daily deltas after baseline | 32 |
+| Records currently stored in the pipeline | 19199 |
+| Files in this daily package | 17 |
+| Signed daily deltas after baseline | 33 |
 | Baseline article records / story groups | 321 / 107 |
 | Baseline distinct media sources | 16 |
 
-**Latest package:** `daily/2026-09-04/`  
-**Generated:** `2026-09-04T00:16:10.897Z`  
-**Integrity:** `signed` Ed25519 signature · package digest `ccdb4b0129702ca5ed32c1f6dd451e4930ea6af31838d3530478fea6ff51a088`  
+**Latest package:** `daily/2026-09-05/`  
+**Generated:** `2026-09-05T00:15:56.043Z`  
+**Integrity:** `signed` Ed25519 signature · package digest `52abd73ff9900ea13802178a0095e488d07190cdec70e46cd787c175d8994eb7`  
 **Baseline reference:** `baseline/2026-08-02/` · 1231 files · 210 records with collected full text · 151 revision snapshots
 
 ## Value we can defend
 
 The value is not just text. It is the relationship layer: canonical URLs, timestamps, extraction traces, source identity, event links, revisions, classifications, comparative coverage outputs, placement decisions and integrity records.
 
-At a conservative **12 minutes** to locate, open, normalise, attribute and preserve one article, the **3947 currently public records in this latest signed export** represent at least **789.4 hours** of manual reconstruction work — about **21.1 full-time research weeks** — before cross-source matching, revision tracking or analytical enrichment.
+At a conservative **12 minutes** to locate, open, normalise, attribute and preserve one article, the **4012 currently public records in this latest signed export** represent at least **802.4 hours** of manual reconstruction work — about **21.4 full-time research weeks** — before cross-source matching, revision tracking or analytical enrichment.
 
 This is a transparent replacement-effort indicator, **not** a sale price, valuation, quality guarantee or substitute for source verification.
 
